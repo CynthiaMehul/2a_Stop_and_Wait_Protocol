@@ -47,11 +47,11 @@ while True:
 
 ## CLIENT:
 
-![image](https://github.com/user-attachments/assets/d529ff9e-5c47-4cef-b6f3-efc055172e68)
+![image](https://github.com/user-attachments/assets/13d8e8b6-97d4-4dee-b9e9-1488a16e3e8e)
 
 ## SERVER: 
 
-![image](https://github.com/user-attachments/assets/928c1c10-1c75-49eb-a960-ec56cac5e285)
+![image](https://github.com/user-attachments/assets/d234ab26-545a-4503-a773-94d6ae8dec36)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
